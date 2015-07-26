@@ -15,6 +15,9 @@
 
 ### Front end
 
+#### HTML
+#### CSS
+
 ### Back end
 
 ### Frameworks
