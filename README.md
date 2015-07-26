@@ -1,6 +1,17 @@
-# referenzen
-Liste nützlicher Referenzen
+# nützliche Referenzen
 
-Inhaltsverzeichnis
+## Inhaltsverzeichnis
+
+### Editoren
+
+### Entwicklungsumgebung
+
+### Front end
+
+### Back end
+
+### Frameworks
+
+### Datenbanken
 
 
